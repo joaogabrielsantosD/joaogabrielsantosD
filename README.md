@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">Computer Engineering student.</h3>
 
 <h4 align="left">Connect with me:</h4>
@@ -9,8 +9,8 @@
 <hr/>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nogueira04&show_icons=true&theme=transparent" alt="GitHub Stats" style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira04&layout=compact&theme=transparent&hide=cmake,makefile" alt="Top Languages" style="width: 36%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=joaogabrielsantosD&show_icons=true&theme=transparent" alt="GitHub Stats" style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielsantosD&layout=compact&theme=transparent&hide=cmake,makefile" alt="Top Languages" style="width: 36%;">
 </div>
 
 
