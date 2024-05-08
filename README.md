@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h3 align="center">Computer Engineering student.</h3>
 
-<!--
-**joaogabrielsantosD/joaogabrielsantosD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://www.linkedin.com/in/nogueirag/](https://www.linkedin.com/in/joão-gabriel-89736822b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nogueirag" height="20" width="30" /></a>
+</p>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nogueira04&show_icons=true&theme=transparent" alt="GitHub Stats" style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira04&layout=compact&theme=transparent&hide=cmake,makefile" alt="Top Languages" style="width: 36%;">
+</div>
+
+
+
+<hr/>
