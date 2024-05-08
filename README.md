@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">Computer Engineering student.</h3>
+<h3 align="center">Electronic Engineering student.</h3>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
